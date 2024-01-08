@@ -1,3 +1,6 @@
+![Web capture_8-1-2024_2130_localhost](https://github.com/naol06/Netflix-Clone/assets/118481867/6426c66e-19cd-4b8b-82d2-21b2e389b6f8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
